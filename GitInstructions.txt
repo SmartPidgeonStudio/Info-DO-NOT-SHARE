@@ -1,0 +1,13 @@
+Instructions for pushing/pulling the files
+----------------------------------------------
+1. git clone <Respository Name> (one time step)
+
+TO UPLOAD:
+2. To upload changes to the files: git add <Files that were changed(names)>
+3. git commit -m "INSERT MESSAGE HERE"
+4. git push (Then input your github user/pass)
+
+TO DOWNLOAD:
+1. git pull
+
+(It is possible that the files may not merge, in that case manually copy the changes over)
