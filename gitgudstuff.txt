@@ -1,0 +1,12 @@
+Instructions for Git Bash
+
+
+
+1. Type ls
+2. Type "cd Documents" (changes directory to Documents)
+3. ... make way to proper folder/directory
+
+
+ls = List contents of directory
+cd = change directory ("cd .." is an example to go back a directory)
+git status
